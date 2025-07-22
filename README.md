@@ -1,5 +1,5 @@
 # Trolley-Budget-Scanner
-Abstract
+ 
 The Trolley Budget Scanner is an innovative solution designed to streamline the shopping experience by
 automatically tracking the total cost of items in a trolley in real-time. In today's fast-paced world, shoppers often
 face the inconvenience of manually calculating their purchases, leading to unexpected totals at checkout,
