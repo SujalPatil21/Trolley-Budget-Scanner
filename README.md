@@ -23,7 +23,7 @@ In today's fast-paced world, shoppers often face the inconvenience of manually c
 
 ---
 
-## 📸 Screenshot
+## 📸 Image
 ![Trolley Budget Scanner Output](Product.png)
 
 ---
